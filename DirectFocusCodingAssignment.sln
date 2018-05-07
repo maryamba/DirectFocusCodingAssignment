@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DirectFocusCodingAssignment", "DirectFocusCodingAssignment\DirectFocusCodingAssignment.csproj", "{A5EEED7D-477A-4C42-BC2E-AF51191099E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectFocusCodingAssignment.Tests", "DirectFocusCodingAssignment.Tests\DirectFocusCodingAssignment.Tests.csproj", "{F4596C81-DAE5-4CC3-9B9E-44787269035E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5EEED7D-477A-4C42-BC2E-AF51191099E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5EEED7D-477A-4C42-BC2E-AF51191099E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5EEED7D-477A-4C42-BC2E-AF51191099E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5EEED7D-477A-4C42-BC2E-AF51191099E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4596C81-DAE5-4CC3-9B9E-44787269035E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4596C81-DAE5-4CC3-9B9E-44787269035E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4596C81-DAE5-4CC3-9B9E-44787269035E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4596C81-DAE5-4CC3-9B9E-44787269035E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92475742-3B15-4A34-8895-034887CE1D88}
+	EndGlobalSection
+EndGlobal
